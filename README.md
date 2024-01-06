@@ -29,3 +29,7 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devatikurrahman&show_icons=true&theme=gruvbox)
