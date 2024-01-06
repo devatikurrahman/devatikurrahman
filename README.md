@@ -7,8 +7,6 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 * Objective-C
 * Android(Java)
 
---
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
