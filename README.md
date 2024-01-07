@@ -28,7 +28,7 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 - Web
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,sqlite,nodejs,express,html,css" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,sqlite,nodejs,html,css" />
   </a>
 </p>
 
