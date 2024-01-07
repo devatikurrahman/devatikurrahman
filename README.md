@@ -15,8 +15,8 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg"/>
     <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/>
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 </p>
-
 
 - Android
 <p align="left">
@@ -25,23 +25,17 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
     <img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 </p>
 
-
 - Web
-  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,sqlite,nodejs,express,html,css" />
   </a>
 </p>
 
-
-
 - Tools
-
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=ps,postman,git,github" />
-        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
     </a>
 </p>
 
