@@ -26,43 +26,24 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 </p>
 
 
-
 - Web
-
+  
 <p align="left">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,mysql,sqlite,nodejs,express,html,css" />
+  </a>
 </p>
 
 
 
 - Tools
-  
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman" />
+
+<p align="left">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ps,postman,git,github" />
+    </a>
+</p>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
-  </a>
-</p>
 
 <br />
 
