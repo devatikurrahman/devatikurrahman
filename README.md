@@ -49,6 +49,13 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
   </a>
 </p>
 
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p>
+
 <br />
 
 #
