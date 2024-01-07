@@ -13,9 +13,9 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 - IOS
 <p align="left">
   <a href="#">
-    <img align="left" alt="Java" width="50px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
-    <img align="left" alt="Spring" width="50px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" />
-    <img align="left" alt="Angular" width="50px" style="padding-right:0px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
+    <img align="left" alt="Java" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+    <img align="left" alt="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" />
+    <img align="left" alt="Angular" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
   </a>
 </p>
 
