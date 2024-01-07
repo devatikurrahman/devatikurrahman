@@ -35,7 +35,7 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 - Tools
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ps,postman,git,github" />
+        <img src="https://skillicons.dev/icons?i=vscode,ps,postman,git,github" />
     </a>
 </p>
 
