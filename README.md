@@ -41,9 +41,9 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=ps,postman,git,github" />
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
     </a>
 </p>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
 
 <br />
 
