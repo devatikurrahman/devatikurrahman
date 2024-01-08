@@ -24,14 +24,14 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 - Web
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,sqlite,nodejs,html,css" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,sqlite,nodejs" />
   </a>
 </p>
 
 <!--- Tools-->
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,ps,postman,git,github" />
+        <img src="https://skillicons.dev/icons?i=html,css,vscode,ps,postman,git,github" />
     </a>
 </p>
 
