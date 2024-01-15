@@ -5,7 +5,6 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 <!--## Skills and Experience -->
 <!--* Swift-->
 <!--* Objective-C-->
-<!--* Android(Java)-->
 
 #
 
