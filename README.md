@@ -60,24 +60,24 @@ I developed the Buildentory real estate app. This app allows users to search for
 
 
 ###  Reel Buddy
-I developed the Buildentory real estate app. This app allows users to search for communities and new homes, explore available floor plans, request tours, and get pre-approved for home loans. It offers many functionalities and is designed to provide a good user experience.
+Reel Buddy is a movie enthusiast social network helping you stay engaged with your movie enthusiast buddies. No more going to the movies alone! View all your buddies activities and get the latest news in Reel Buzz. Instantly message your buddies and coordinate a movie outing together.
 
 <p align="left">
-    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_01.png"/>
-    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_02.png"/>
-    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_03.png"/>
-    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_04.png"/>
+    <img width="244px" height="447px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_01.png"/>
+    <img width="244px" height="447px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_02.png"/>
+    <img width="244px" height="447px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_03.png"/>
+    <img width="244px" height="447px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_04.png"/>
 </p>
 
 
 ###  Tag Simply
-I developed the Buildentory real estate app. This app allows users to search for communities and new homes, explore available floor plans, request tours, and get pre-approved for home loans. It offers many functionalities and is designed to provide a good user experience.
+It is a tagging app that allows for the simple and easy tagging of pics taken through the app's camera function, or those already taken and edited using other photo editors and stored in your photo-library.
 
 <p align="left">
-    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-01.jpeg"/>
-    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-02.jpeg"/>
-    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-03.jpeg"/>
-    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-04.jpeg"/>
+    <img width="244px" height="434px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-01.jpeg"/>
+    <img width="244px" height="434px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-02.jpeg"/>
+    <img width="244px" height="434px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-03.jpeg"/>
+    <img width="244px" height="434px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-04.jpeg"/>
 </p>
 
 
