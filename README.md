@@ -50,12 +50,12 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 I developed the Buildentory real estate app. This app allows users to search for communities and new homes, explore available floor plans, request tours, and get pre-approved for home loans. It offers many functionalities and is designed to provide a good user experience.
 
 <p align="left">
-    <img width="342px" height="739px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-01.png"/>
-    <img width="342px" height="739px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-02.png"/>
-    <img width="342px" height="739px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-03.png"/>
-    <img width="342px" height="739px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-04.png"/>
-    <img width="342px" height="739px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-05.png"/>
-    <img width="342px" height="739px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-06.png"/>
+    <img width="297px" height="642px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-01.png"/>
+    <img width="297px" height="642px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-02.png"/>
+    <img width="297px" height="642px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-03.png"/>
+    <img width="297px" height="642px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-04.png"/>
+    <img width="297px" height="642px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-05.png"/>
+    <img width="297px" height="642px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Buildentory-06.png"/>
 </p>
 
 
