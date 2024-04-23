@@ -46,5 +46,6 @@ I’m Atikur Rahman, a seasoned software engineer with over 13 years of solid ha
 ###  Projects
 #
 
+###  Buildentory Real Estate
 I developed the Buildentory real estate app. This app allows users to search for communities and new homes, explore available floor plans, request tours, and get pre-approved for home loans. It offers many functionalities and is designed to provide a good user experience.
 
