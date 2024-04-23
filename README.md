@@ -59,3 +59,25 @@ I developed the Buildentory real estate app. This app allows users to search for
 </p>
 
 
+###  Reel Buddy
+I developed the Buildentory real estate app. This app allows users to search for communities and new homes, explore available floor plans, request tours, and get pre-approved for home loans. It offers many functionalities and is designed to provide a good user experience.
+
+<p align="left">
+    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_01.png"/>
+    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_02.png"/>
+    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_03.png"/>
+    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/ReelBuddy/reelbuddy_04.png"/>
+</p>
+
+
+###  Tag Simply
+I developed the Buildentory real estate app. This app allows users to search for communities and new homes, explore available floor plans, request tours, and get pre-approved for home loans. It offers many functionalities and is designed to provide a good user experience.
+
+<p align="left">
+    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-01.jpeg"/>
+    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-02.jpeg"/>
+    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-03.jpeg"/>
+    <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/TagSimply/tagsimply-04.jpeg"/>
+</p>
+
+
