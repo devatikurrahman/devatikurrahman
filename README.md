@@ -63,7 +63,7 @@ Android App: https://play.google.com/store/apps/details?id=com.solutionegg.build
 
 
 ###  Appetizers
-Appetizers IOS app has been designed with SwiftUI and coded with Swift language.
+Appetizers IOS app is designed with SwiftUI and coded with Swift language following MVVM architectural pattern.
 
 <p align="left">
     <img width="244px" height="527px" src="https://github.com/devatikurrahman/devatikurrahman/blob/main/Appetizers/Appetizers-01.png"/>
